@@ -1,42 +1,57 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi there, I'm Rajeev Kumar 👋</h1>
 
-###
-
-<p align="left">My name is Rajeev Kumar, and I'm a Data Science and Web Development student at IIT Madras.</p>
-
-###
-
-<h2 align="left">About Me</h2>
-
-###
-
-<p align="left">
-✨ Coding & building projects since ...<br>
-📚 Currently learning Machine Learning, Deep Learning, and Full-Stack Web Development.<br>
-🎯 Goals: Build scalable applications and contribute to open source.<br>
-🎲 Fun fact: I love exploring AI-powered web applications.
+<p align="center">
+🎓 Data Science & Web Development Student at <b>IIT Madras</b> <br>
+💻 Passionate about Machine Learning, AI, and Full-Stack Development <br>
+🌱 Currently exploring Deep Learning and Scalable Web Apps <br>
+🚀 Open to collaboration and exciting projects!
 </p>
 
-###
+---
 
-<h2 align="left">I code with</h2>
+### 🔥 **My Tech Stack**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-</div
+### 🚀 **Projects & Work**
+- 🔹 **[Sales Prediction Model](#)** - ML model to predict sales using Python, Pandas, and Scikit-learn.  
+- 🔹 **[NLP Sentiment Analyzer](#)** - AI-powered app using Flask, NLTK, and React.  
+- 🔹 **[Full-Stack Web Dashboard](#)** - Built with React, Node.js, and MongoDB.  
+
+📌 *Check out my repositories for more!*
+
+---
+
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajeev-791&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajeev-791&theme=tokyonight" height="180" />
+</p>
+
+---
+
+### 🌎 **Let's Connect!**
+<p align="center">
+<a href="https://linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="30"/>
+</a>
+<a href="https://github.com/Rajeev-791" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" height="30"/>
+</a>
+</p>
+
+---
+
+⭐ *If you like my work, consider starring my repositories!* ⭐
+
+
