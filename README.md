@@ -42,7 +42,7 @@
 
 ### 🌎 **Let's Connect!**
 <p align="center">
-<a href="https://linkedin.com/in/your-profile" target="_blank">
+<a href="https://www.linkedin.com/in/rajeev-kumar-511140220?trk=contact-info" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="30"/>
 </a>
 <a href="https://github.com/Rajeev-791" target="_blank">
