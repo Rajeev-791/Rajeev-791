@@ -24,9 +24,9 @@
 ---
 
 ### 🚀 **Projects & Work**
-- 🔹 **[Sales Prediction Model](#)** - ML model to predict sales using Python, Pandas, and Scikit-learn.  
-- 🔹 **[NLP Sentiment Analyzer](#)** - AI-powered app using Flask, NLTK, and React.  
-- 🔹 **[Full-Stack Web Dashboard](#)** - Built with React, Node.js, and MongoDB.  
+- 🔹 I will add here.
+- 🔹 I will add here.
+- 🔹 I will add here.
 
 📌 *Check out my repositories for more!*
 
